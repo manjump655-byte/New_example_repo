@@ -1,2 +1,2 @@
 # New_example_repo
-my second repository
+my second repository with love
