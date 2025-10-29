@@ -218,3 +218,5 @@ select a.id,a.name,a.custbal, b.branch, b.empdesg from customer a cross join bra
 select a.id,a.name,a.custbal, b.branch, b.empdesg,b.id from customer a left join branch b on a.id=b.id where b.id is null
 --Non matching records from right table
 select a.id,a.name,a.custbal, b.branch, b.empdesg,b.id from customer a right join branch b on a.id=b.id where a.id is null
+
+hihj
